@@ -3,6 +3,10 @@
   "version": "0.0.2",
   "description": "turn jade into beautiful js strings, with browserify",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArnaudRinquin/jade2js-browserify"
+  },
   "scripts": {
     "test": "node_modules/.bin/mocha test/spec.js"
   },

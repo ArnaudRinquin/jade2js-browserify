@@ -1,6 +1,6 @@
 {
   "name": "jade2js-browserify",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "turn jade into beautiful js strings, with browserify",
   "main": "index.js",
   "repository": {
